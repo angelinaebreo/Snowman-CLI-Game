@@ -19,14 +19,14 @@ A guessing game that allows the user to guess a randomly selected word one lette
 
 
 ### Dependecies
-- readlineSync Used to communicate with the user via console
+- **readlineSync** Used to communicate with the user via console
 `const readline = require("readline-sync")`
 ```
 readline.keyInYN("Would you like to play again? \n"
 // User will enter Y or N to either replay or quit game
 ```
   
-- chalk Used edit text color
+- **chalk** Used edit text color
 `const chalk = require("chalk")`
 
 
