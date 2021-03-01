@@ -5,7 +5,7 @@
 
 A guessing game that allows the user to guess a randomly selected word one letter at a time.
 
-![Snowman Gif](./snowman.gif)
+![Snowman Gif](./snowmangiphy.gif)
 
 ### Setup
 
